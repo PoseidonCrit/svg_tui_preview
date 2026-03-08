@@ -84,7 +84,9 @@ Add the following to your ~/.bashrc or ~/.zshrc:
 alias svgt='~/.local/bin/svg_tui'
 
 
-Then refresh your shell: source ~/.bashrc (or ~/.zshrc).
+Then refresh your shell: 
+
+source ~/.bashrc (or ~/.zshrc).
 
 _____________________________________________________________
 
