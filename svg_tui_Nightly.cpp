@@ -34,7 +34,7 @@
  * - GRAPHICS:      Librsvg-2.0 (Vector parse), Cairo (Raster backend).
  * - CONVENTIONS:   PascalCase [Types], snake_case [Logic], SCREAMING [Config].
  * * ============================================================================
- * Copyright (c) 2024 Epistemic Filter AI. Released under MIT License.
+ * Copyright (c) 2024 Epistemic Filter AI Sintax Clean up. Released under MIT License.
  * ============================================================================
  */
 
