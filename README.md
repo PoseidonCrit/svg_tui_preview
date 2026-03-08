@@ -126,3 +126,16 @@ _____________________________________________________________
 📝 License
 
 This project is open-source.
+
+
+
+UPDATE TO DO LIST:
+
+Implment GALLERY thumnail preview pressing Toggle Press: P.
+"Dynamic grid system that renders low-resolution ANSI thumbnails for all files in the directory."
+
+- Cursor Persistence.
+- Background Pre-rendering (thumb flag) 
+
+
+
